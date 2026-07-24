@@ -1,0 +1,3 @@
+27b5eeb319fd51294a8a3969705ee27e0fe74886c422e60ee3dd7e772faf0e1c  uniapp-run-win-0.1.0.vsix
+19dfec8404a4498b4e457629a7d34d005bf5f2115a3d9f907a6ebc83ddeac797  uniapp-run-win-0.1.0-source.zip
+d593055086f935408cc947d7ab784f4b749ed18ab374847cd0a690281e24cacd  uniapp-run-win-INSTALL.md
